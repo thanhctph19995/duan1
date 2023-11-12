@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6396e0e6-1f24-4100-a97a-45ae5f96059c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/java/com/longthph30891/ungdungdatdouong/fragment/CartFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/java/com/longthph30891/ungdungdatdouong/fragment/FavoriteFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/java/com/longthph30891/ungdungdatdouong/fragment/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/java/com/longthph30891/ungdungdatdouong/fragment/MyProfileFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/java/com/longthph30891/ungdungdatdouong/fragment/VoucherFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/drawable/baseline_account_circle_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/drawable/baseline_add_shopping_cart_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/drawable/baseline_favorite_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/drawable/baseline_search_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/layout/fragment_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/layout/fragment_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/layout/fragment_my_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/layout/fragment_voucher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/menu/seach.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UngDungDatDoUong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UngDungDatDoUong/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UngDungDatDoUong/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/java/com/longthph30891/ungdungdatdouong/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/java/com/longthph30891/ungdungdatdouong/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UngDungDatDoUong/app/src/main/res/values/themes.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UngDungDatDoUong" />
+  </component>
+  <component name="ProjectId" id="2Y3r33eXtut8MdSiSsgOjjPwlGl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/atutu1/UngDungDatDoUong"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6396e0e6-1f24-4100-a97a-45ae5f96059c" name="Changes" comment="" />
+      <created>1699764902634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699764902634</updated>
+    </task>
+    <servers />
+  </component>
+</project>
